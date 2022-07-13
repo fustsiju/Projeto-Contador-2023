@@ -7,7 +7,7 @@
   height: 100vh;
   background: #17202a;
 }
-.ContadorBox {
+.contadorBox {
   height: 100%;
   display: flex;
   justify-content: center;
