@@ -43,21 +43,21 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
-#day::before {
-  content: "days";
+#dias::before {
+  content: "dias";
 }
-#hour::before {
-  content: "hours";
+#horas::before {
+  content: "horas";
 }
-#minute::before {
-  content: "minutes";
+#minutos::before {
+  content: "minutos";
 }
-#second::before {
-  content: "seconds";
+#segundos::before {
+  content: "segundos";
 }
-#day {
+#dias {
   color: #12a1de;
 }
-#second {
+#segundos {
   color: #fa215e;
-}
+} 
