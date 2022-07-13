@@ -7,7 +7,7 @@
   height: 100vh;
   background: #17202a;
 }
-.countdownBox {
+.ContadorBox {
   height: 100%;
   display: flex;
   justify-content: center;
@@ -19,7 +19,7 @@ h1 {
   font-size: 7em;
   font-weight: 300;
 }
-.countdown {
+.contador {
   display: flex;
   margin-top: 20px;
   font-size: 2em;
@@ -27,13 +27,13 @@ h1 {
   background: rgba(0,0,0,0.4);
   border-radius: 10px;
 }
-.countdown div {
+.contador div {
   width: 100px;
   text-align: center;
   position: relative;
   color: #999;
 }
-.countdown div::before {
+.contador div::before {
   content: "";
   position: absolute;
   bottom: -14px;
